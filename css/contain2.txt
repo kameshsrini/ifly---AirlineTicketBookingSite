@@ -1,0 +1,39 @@
+.p {
+    background-image:url('http://placehold.it/200x200');
+    background-repeat:repeat-x;
+    background-size: 100%;
+}
+.d {
+    color :#ffffff;
+}
+.e {
+    color :#000000;
+}
+.jumbotron{
+background-image:url('../flight4.jpg');
+background-attachment:fixed;
+min-height:800px;
+margin-bottom:0px;
+    color:white;
+
+}
+.bg-img2 {
+    background-image:url('http://placehold.it/200x200/fc43c');
+    background-repeat:repeat-x;
+    background-size: 100%;
+}
+.masthead{
+
+    height://height of bg;
+    background-image:url('../flight3.jpg');
+    background-repeat:no-repeat;
+	 color :#ffffff;
+}
+.t {
+
+    size: 10px;
+}
+.navbar {
+
+    margin-bottom: 0;border-radius:                    0px;
+}
